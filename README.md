@@ -22,6 +22,11 @@ This project is a comprehensive **Data Science & Analytics Dashboard** that inte
 - **SQL**: Used for querying and managing databases.
 - **HTML/CSS**: Front-end design for creating a responsive user interface.
 
+## Dashboard
+
+![Dashboard](https://github.com/pranjalg25/p-l-dahboard/blob/main/P%26L%20Statement.png)
+
+
 ## Installation
 
 To get started with this project, clone the repository and install the required dependencies:
