@@ -1,5 +1,9 @@
 # Financial Reporting and Analysis P&L Tableau Dashboard
 
+## Dashboard
+
+![Dashboard](https://github.com/pranjalg25/p-l-dahboard/blob/main/P%26L%20Statement.png)
+
 ## Overview
 
 This project is a comprehensive **Data Science & Analytics Dashboard** that integrates various data visualization techniques and analytics tools to provide valuable insights. The dashboard is built with modern technologies, and it leverages data from multiple sources for powerful data-driven decision-making. It includes interactive visualizations and key performance indicators (KPIs) to optimize business operations.
@@ -21,10 +25,6 @@ This project is a comprehensive **Data Science & Analytics Dashboard** that inte
 - **Pandas**: Data manipulation and analysis.
 - **SQL**: Used for querying and managing databases.
 - **HTML/CSS**: Front-end design for creating a responsive user interface.
-
-## Dashboard
-
-![Dashboard](https://github.com/pranjalg25/p-l-dahboard/blob/main/P%26L%20Statement.png)
 
 
 ## Installation
